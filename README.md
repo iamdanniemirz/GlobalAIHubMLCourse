@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# Global AI Hub , Introduction to Machine Learning Course
 ![](Images/logo.png)
 
 **Course Date:** 04.01.2021
